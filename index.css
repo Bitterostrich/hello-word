@@ -1,0 +1,11 @@
+.cookies_h2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:aqua;
+}
+
+.cookies_body_p {
+    color: brown;
+}
