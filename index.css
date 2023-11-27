@@ -1,0 +1,11 @@
+.cookies_h2{
+    color: rgb(68, 64, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #003001;
+}
+
+.body{
+    color:#003001
+}
